@@ -6,7 +6,7 @@ This application generates team members using Inquirer, FS to write the file, an
 
 I've created a demo video to go over how the application works. You can view it here:
 
-![video of demo](./assets/videos/demo%20video.mp4)
+[Demo Video with testing](http://www.ave81.com/jing/greg-jewell/demovideo.mp4)
 
 
 
