@@ -45,4 +45,4 @@ The new HTML file is located under the dist folder.
 
 ## Questions
 
-If you have any questions or concerns reach me on Github @gdjewell or on email at gdjewell@gmail.com
+If you have any questions or concerns reach me on Github [@gdjewell](https://github.com/gdjewell) or on email at [gdjewell@gmail.com](mailto:gdjewell@gmail.com)
