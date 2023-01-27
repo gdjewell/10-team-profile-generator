@@ -6,7 +6,7 @@ This application generates team members using Inquirer, FS to write the file, an
 
 I've created a demo video to go over how the application works. You can view it here:
 
-![video of demo](http://www.ave81.com/jing/greg-jewell/2023-01-27_09-42-44.mp4)
+![video of demo](./assets/videos/demo%20video.mp4)
 
 
 
@@ -41,7 +41,7 @@ From here, follow the prompts to generate your team profile page.
 The new HTML file is located under the dist folder.
 
 ## Screenshot
-![team builder](https://www.screencast.com/t/ktvCwvUAkK07)
+![team builder](./assets/images/screenshot.jpg)
 
 ## Questions
 
