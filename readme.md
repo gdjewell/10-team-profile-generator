@@ -14,8 +14,8 @@ I've created a demo video to go over how the application works. You can view it 
 
 * [Installation](#installation)
 * [Usage](#Usage)
-* [Screenshot](#Screenshot)
-* [Questions](#Questions)
+* [Screenshot](#screenshot)
+* [Questions](#questions)
 
 
 
