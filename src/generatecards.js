@@ -1,6 +1,8 @@
 const Employee = require('../lib/Employee')
 
 
+//generates cards for each member of the of the team, and populates them with the data stored within the individual classes.
+
 const buildManager = manager => {
    
   return `<div class="card col-3 align-center mx-auto">
@@ -52,6 +54,8 @@ const buildIntern = intern => {
 const makeTeam = yourteam => {
 
  const cards = yourteam.map(Employee => {
+
+  // Determines which card to make based on the role of each team member.
     
 
       if (Employee.getRole() == "Manager") {
@@ -78,7 +82,7 @@ const makeTeam = yourteam => {
   )
 
 
- 
+ //the HTML page generation
 
   return ` <!DOCTYPE html>
   <html lang="en">

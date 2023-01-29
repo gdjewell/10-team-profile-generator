@@ -15,7 +15,7 @@ const team = [];
 function teamBuilder() {
   
 
-  // These questions will be prompted in the terminal 
+  // These questions will be prompted in the terminal, based on the employee type they select.
 
   return prompt(menuQuestion)
 
@@ -34,6 +34,8 @@ function teamBuilder() {
     }
   })
 }
+
+// after questions are answered they are added to their respective classes with all of the information entered, and pushed into the array team.
 
 function createManager() {
   prompt (managerQuestions)
@@ -66,11 +68,15 @@ function createIntern() {
   })
 }
 
+//creates the HTML file.
+
 function makeFile () {
   fs.writeFileSync('./dist/yourteam.html', makeTeam(team), "UTF-8")
   console.log('Your team has been created.')
 }
 
+
+//starts application
 
 createManager();
 
