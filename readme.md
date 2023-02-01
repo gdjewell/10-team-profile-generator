@@ -13,7 +13,7 @@ I've created a demo video to go over how the application works. You can view it 
 ## Table of Contents
 
 * [Installation](#installation)
-* [Usage](#Usage)
+* [Usage](#usage)
 * [Screenshot](#screenshot)
 * [Questions](#questions)
 
